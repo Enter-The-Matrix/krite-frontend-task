@@ -1,0 +1,100 @@
+.sidebar {
+  border: 2px solid #dbdcdc;
+  padding: 8px;
+  border-radius: 10px;
+  height: calc(100vh - 25px);
+}
+
+.dashboard {
+  height: calc(100vh - 25px);
+}
+
+.mainContainer {
+  padding-top: 10px;
+}
+
+.profileImg {
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+}
+
+.logoImg {
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+}
+
+.btnCss {
+  display: flex;
+  align-items: start;
+}
+
+.teams {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.accordion-btn {
+  padding: 0.25rem 0.5rem !important;
+  font-size: 0.875rem !important;
+}
+
+.dashboardContainer {
+  height: 100%;
+  border: 2px solid #dbdcdc;
+  border-radius: 10px;
+}
+
+.dashboardHeader {
+  border: 2px solid #dbdcdc;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.searchBarDiv{
+  border: 1px solid black;
+   border-radius: 20px;
+}
+
+.searchBar{
+  border: none;
+  outline: none;
+}
+
+
+.dashboardFooter {
+  border: 2px solid #dbdcdc;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.cross {
+  font-size: 20px;
+  color:#dbdcdc ;
+}
+
+.cross:hover {
+  cursor: pointer;
+}
+
+.addBillingDiv {
+  background-color: #f8f9fa;
+  padding: 6px;
+}
+.addBillingDiv:hover {
+  background-color: #d3d4d5;
+
+}
+
+.dashboardDropdown {
+  background-color: white !important ;
+  border-color: #dbdcdc !important ;
+  color: black !important;
+}
+
+.dashboardDropdown:hover {
+  background-color: #dbdcdc !important;
+}
+
